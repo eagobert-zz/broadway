@@ -4,3 +4,7 @@ body {
   width: 95%;
   font-family: Helvetica;
 }
+
+.header {
+  background-image: image(/Users/eagobert/Documents/Codecademy_Projects/Projects/Broadway/resources/images/the-flatiron-building.png)
+}
