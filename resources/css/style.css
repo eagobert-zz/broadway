@@ -1,13 +1,10 @@
+body {
+  font-family: Helvetica;
+}
 .top_body {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");)
 }
 
 .mid_divider {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");)
-}
-
-body {
-  text-align: center;
-  margin:auto;
-  width: 95%;
 }
