@@ -43,3 +43,10 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
