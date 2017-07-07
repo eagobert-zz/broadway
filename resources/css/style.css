@@ -35,3 +35,10 @@ h3 {
 .middle p {
   font-size: 14px;
 }
+
+.middle_bar h3 {
+  background-image:url("/Users/eagobert/Documents/Codecademy_Projects/Projects/Broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
